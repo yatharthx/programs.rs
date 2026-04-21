@@ -1,1 +1,4 @@
 target
+
+# ignore the <playground> crate
+crates/playground
